@@ -1,14 +1,15 @@
 CommROSBridgeSample
 -----------------------
-ROSBridge ‚ðŒo—R‚µ‚Ä ROS topic ‚Æ UE4 ‚Æ‚Ì‚â‚èŽæ‚è‚ðs‚¤ƒTƒ“ƒvƒ‹‚Å‚·B  
-ROSBridge ‚Æ‚Ì’ÊM‚Í ROS Integration (https://github.com/code-iai/ROSIntegration) ‚ðŽg—p‚µ‚Ä‚¢‚Ü‚·B
+ROSBridge ã‚’çµŒç”±ã—ã¦ ROS topic ã¨ UE4 ã¨ã®ã‚„ã‚Šå–ã‚Šã‚’è¡Œã†ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚  
+ROSBridge ã¨ã®é€šä¿¡ã¯ ROS Integration (https://github.com/code-iai/ROSIntegration) ã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
 
-Ú‚µ‚­‚Í‹Zƒ‰ƒ{‚Ì‹LŽ–‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+è©³ã—ãã¯æŠ€ãƒ©ãƒœã®è¨˜äº‹ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚  
+http://wazalabo.com/ue4_and_ros.html
 
 
-### ƒvƒ‰ƒOƒCƒ“
-–{ƒŠƒ|ƒWƒgƒŠ‚Å‚Í ROS Integration ‚ð—˜—p‚µ‚Ä‚¢‚Ü‚·B  
-Žg—p‚ÌÛ‚ÍAgit clone ŒãAsubmodule ‚ðXV‚µ‚Ä‚­‚¾‚³‚¢B
+### ãƒ—ãƒ©ã‚°ã‚¤ãƒ³
+æœ¬ãƒªãƒã‚¸ãƒˆãƒªã§ã¯ ROS Integration ã‚’åˆ©ç”¨ã—ã¦ã„ã¾ã™ã€‚  
+ä½¿ç”¨ã®éš›ã¯ã€git clone å¾Œã€submodule ã‚’æ›´æ–°ã—ã¦ãã ã•ã„ã€‚
 ```
 git clone <this repository>
 git submodule init
@@ -16,10 +17,10 @@ git submodule update
 ```
 
 
-### ŽÀs•û–@ (ŠT—v)
-1. ROSBridge TCP ‹N“®
-2. UE4‘¤‹N“®
+### å®Ÿè¡Œæ–¹æ³• (æ¦‚è¦)
+1. ROSBridge TCP èµ·å‹•
+2. UE4å´èµ·å‹•
 
 
-¦ ROSBridge ‚ª‹N“®‚µ‚Ä‚¢‚È‚¢‚Æ—Ž‚¿‚Ü‚·B
+â€» ROSBridge ãŒèµ·å‹•ã—ã¦ã„ãªã„ã¨è½ã¡ã¾ã™ã€‚
 
